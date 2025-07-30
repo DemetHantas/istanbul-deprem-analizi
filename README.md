@@ -110,10 +110,6 @@ end desc;
 - **Sigorta şirketleri** risk değerlendirmesi
 - **Araştırma** ve akademik çalışmalar
 
-## 📞 İletişim
-
-Bu proje SQL öğrenim amaçlı geliştirilmiştir. Sorularınız için Issues bölümünü kullanabilirsiniz.
-
 ---
 
 **Not:** Bu projede kullanılan veriler örnek amaçlıdır. Gerçek afet planlaması için resmi kaynaklara başvurun.
